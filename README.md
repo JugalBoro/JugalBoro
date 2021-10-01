@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning as Full Stack Developer
 - 👯 I’m looking to collaborate on Front End Development
+- ❤️ My Interest lies in Data Structures and Algorithms
 - 💬 Ask me about anything, I would love to answer
 - 📫 Email me at cr2017jboro999@gmail.com
 
