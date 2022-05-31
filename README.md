@@ -1,4 +1,4 @@
-### Hi there I am Jugal K. Boro👋
+### Hi there pri👋
 
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning as Full Stack Developer
