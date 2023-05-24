@@ -1,4 +1,4 @@
-### Hi there pri👋
+### Hi there 👋
 
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning as Full Stack Developer
