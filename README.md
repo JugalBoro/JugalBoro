@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as SDE (Backend)
+- 🔭 Backend Heavy Full Stack Development Skils
 - 👯 I’m looking to collaborate on Front End Development
 - ❤️ My Interest lies in Data Structures and Algorithms
 - 💬 Ask me about anything, I would love to answer
