@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Backend Heavy Full Stack Development Skills
+- 🔭 Backend Heavy Full Stack Developer
 - 👯 I’m looking to collaborate on Front End Development
 - ❤️ My Interest lies in Data Structures and Algorithms
 - 💬 Ask me about anything, I would love to answer
