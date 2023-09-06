@@ -14,4 +14,4 @@ I love to teach and learn as a Full Stack Developer and am an avid learner.
 - Apperentice Philosopher
 - Lifeaholic Evangelist
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JugalBoro&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JugalBoro&currStreakNum=2FD3EB&fire=dark&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
