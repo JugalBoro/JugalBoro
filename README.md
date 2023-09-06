@@ -17,3 +17,5 @@ I love to teach and learn as a Full Stack Developer and am an avid learner.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JugalBoro&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JugalBoro&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JugalBoro&size_weight=0.5&count_weight=0.5)
