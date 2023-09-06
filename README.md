@@ -14,5 +14,6 @@ I love to teach and learn as a Full Stack Developer and am an avid learner.
 - Apperentice Philosopher
 - Lifeaholic Evangelist
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JugalBoro&show_icons=true&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JugalBoro)](https://github.com/anuraghazra/github-readme-stats)
